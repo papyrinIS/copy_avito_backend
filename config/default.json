@@ -1,0 +1,5 @@
+{
+  "port":5000,
+  "mongoUri":"mongodb+srv://ilya:1234sqrt@cluster0.mp7yn.azure.mongodb.net/avito?retryWrites=true&w=majority",
+  "jwtSecret": "1234"
+}
